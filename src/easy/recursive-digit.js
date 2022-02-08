@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * https://edabit.com/challenge/evbaerriFzL6GBgSo
  * 
@@ -28,7 +30,7 @@
  * superDigit("123", 3) ➞ 9
  * superDigit("99999999999999999999999999", 104500) ➞ 9
  * 
- * @param {String} n
+ * @param {string} n
  * @param {int} k
  * @returns {int}
  */

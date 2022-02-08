@@ -8,7 +8,7 @@
  * search([], 99) ➞ -1
  * 
  * @param {Array} array
- * @param {int} item
+ * @param {number} item
  * @param {int} currentIndex
  * @returns {int}
  */

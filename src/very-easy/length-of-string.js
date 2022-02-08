@@ -6,8 +6,8 @@
  * length("a") ➞ 1
  * length("") ➞ 0
  * 
- * @param {String} string 
- * @returns {int}
+ * @param {string} string 
+ * @returns {number}
  */
 
 function length(string) {

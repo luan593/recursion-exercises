@@ -16,9 +16,9 @@
  * 
  * multiSum(2) ➞ 110
  * 
- * @param {int} num
- * @param {int} multiplier
- * @returns {int}
+ * @param {number} num
+ * @param {number} multiplier
+ * @returns {number}
  */
 
 function multiSum(num, multiplier=10) {

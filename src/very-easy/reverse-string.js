@@ -8,8 +8,8 @@
  * reverse("a") ➞ "a"
  * reverse("") ➞ ""
  * 
- * @param {String} string 
- * @returns {String}
+ * @param {string} string 
+ * @returns {string}
  */
 
 

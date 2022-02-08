@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * https://edabit.com/challenge/4gzDuDkompAqujpRi
  * 
